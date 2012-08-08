@@ -1,0 +1,8 @@
+*  Connecting Processing and Supercollider
+*  JD Pirtle, 2012
+
+This is something I really struggled with for a while during the tense weeks before my 2011 MFA thesis show, so I thought I'd try and condense what I figured out into a short tutorial.  Hopefully it will help someone else who wants to do something similar.
+
+First, I have to say that there are numerous SC<-->Processing tutorials out there, but I didn't find one that answered the questions that I had.  Thanks to the excellent advise from the SC users list and a lot of trial and error, I finally got most of the functionality I was looking for.  Second, there is a Supercollider library for Processing, which should work for most (if not all) situations.  It didn't provide the functionality I needed, but it's really nice.  http://www.erase.net/projects/processing-sc/
+
+This tutorial is a simplified version of what I came up with, which uses the Fading Ellipse sketch for the visual component.  
